@@ -3,6 +3,8 @@
 This project is a **course assignment for the subject _Computer Networks_** at  
 **University of Science – VNU-HCM (HCMUS)**.
 
+### Time of Implementation: **January 2025**
+
 It demonstrates how to transfer a file from server to client using **Python sockets**, through multiple versions:  
 - **TCP** (stream-based reliable transfer)  
 - **UDP** (connectionless, best-effort)  
